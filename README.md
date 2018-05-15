@@ -1,2 +1,3 @@
 # EmotionRecognition
+![Screenshot](screenshot.png)
 
